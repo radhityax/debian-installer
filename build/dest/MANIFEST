@@ -1,0 +1,4 @@
+netboot/debian-installer -- PXE boot directory for tftp server
+netboot/depthcharge      -- Disk/partition images for ChromeOS devices (netboot installer)
+netboot/mini.iso         -- tiny CD image that boots the netboot installer
+netboot/netboot.tar.gz   -- tarball of PXE boot directory
